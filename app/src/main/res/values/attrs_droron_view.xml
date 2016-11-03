@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="DroronView">
+        <attr name="color" format="color" />
+        <attr name="leftAngle" format="float" />
+        <attr name="rightAngle" format="float" />
+    </declare-styleable>
+</resources>
